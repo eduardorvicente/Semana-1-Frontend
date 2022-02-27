@@ -21,4 +21,4 @@ Descripción:
   - [Buyer persona](https://github.com/eduardorvicente/Semana-1-Frontend/blob/main/Buyer%20persona.pdf)
   - [Publico objetivo](https://github.com/eduardorvicente/Semana-1-Frontend/blob/main/Audiencia%20objetivo.pdf)
   - [Wireframe UX](./wireframe.md)
-  - [UI](./5.-ui.md)
+  - [UI](./UI.md)
